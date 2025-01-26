@@ -5,6 +5,7 @@
 
 ## 食用说明
 确定可以使用此shell脚本的linux发行版为Ubuntu，如果你使用其他linux发行版而造成的运行上的问题请勿发布Issues
+
 一加内核开源地址：[OnePlusOSS](https://github.com/OnePlusOSS/kernel_manifest)
 
 
